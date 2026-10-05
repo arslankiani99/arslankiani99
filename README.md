@@ -1,4 +1,4 @@
-# Hi, I'm Arslan 👋
+# Hi, I'm Arsalan 👋
 
 I am a Computer Engineering student at Foundation University.
 
