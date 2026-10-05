@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Arslan 👋
+
+I am a Computer Engineering student at Foundation University.
+
+I am currently learning and building my skills in programming, software development, computer systems, and emerging technologies.
 
 <!--
 **arslankiani99/arslankiani99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
